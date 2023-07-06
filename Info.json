@@ -1,0 +1,640 @@
+{
+    "data" : [
+        {
+            "type" : "champion",
+            "name" : "Aatrox"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ahri"
+        },
+        {
+            "type" : "champion",
+            "name" : "Akali"
+        },
+        {
+            "type" : "champion",
+            "name" : "Alistar"
+        },
+        {
+            "type" : "champion",
+            "name" : "Amumu"
+        },
+        {
+            "type" : "champion",
+            "name" : "Anivia"
+        },
+        {
+            "type" : "champion",
+            "name" : "Annie"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ashe"
+        },
+        {
+            "type" : "champion",
+            "name" : "Azir"
+        },
+        {
+            "type" : "champion",
+            "name" : "Bard"
+        },
+        {
+            "type" : "champion",
+            "name" : "Blitzcrank"
+        },
+        {
+            "type" : "champion",
+            "name" : "Brand"
+        },
+        {
+            "type" : "champion",
+            "name" : "Braum"
+        },
+        {
+            "type" : "champion",
+            "name" : "Caitlyn"
+        },
+        {
+            "type" : "champion",
+            "name" : "Cassiopeia"
+        },
+        {
+            "type" : "champion",
+            "name" : "Cho'Gath"
+        },
+        {
+            "type" : "champion",
+            "name" : "Corki"
+        },
+        {
+            "type" : "champion",
+            "name" : "Darius"
+        },
+        {
+            "type" : "champion",
+            "name" : "Diana"
+        },
+        {
+            "type" : "champion",
+            "name" : "Dr. Mundo"
+        },
+        {
+            "type" : "champion",
+            "name" : "Draven"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ekko"
+        },
+        {
+            "type" : "champion",
+            "name" : "Elise"
+        },
+        {
+            "type" : "champion",
+            "name" : "Evelynn"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ezreal"
+        },
+        {
+            "type" : "champion",
+            "name" : "Fiddlesticks"
+        },
+        {
+            "type" : "champion",
+            "name" : "Fiora"
+        },
+        {
+            "type" : "champion",
+            "name" : "Fizz"
+        },
+        {
+            "type" : "champion",
+            "name" : "Galio"
+        },
+        {
+            "type" : "champion",
+            "name" : "Gangplank"
+        },
+        {
+            "type" : "champion",
+            "name" : "Garen"
+        },
+        {
+            "type" : "champion",
+            "name" : "Gnar"
+        },
+        {
+            "type" : "champion",
+            "name" : "Gragas"
+        },
+        {
+            "type" : "champion",
+            "name" : "Graves"
+        },
+        {
+            "type" : "champion",
+            "name" : "Gwen"
+        },
+        {
+            "type" : "champion",
+            "name" : "Hecarim"
+        },
+        {
+            "type" : "champion",
+            "name" : "Heimerdinger"
+        },
+        {
+            "type" : "champion",
+            "name" : "Illaoi"
+        },
+        {
+            "type" : "champion",
+            "name" : "Irelia"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ivern"
+        },
+        {
+            "type" : "champion",
+            "name" : "Janna"
+        },
+        {
+            "type" : "champion",
+            "name" : "Jarvan IV"
+        },
+        {
+            "type" : "champion",
+            "name" : "Jax"
+        },
+        {
+            "type" : "champion",
+            "name" : "Jayce"
+        },
+        {
+            "type" : "champion",
+            "name" : "Jhin"
+        },
+        {
+            "type" : "champion",
+            "name" : "Jinx"
+        },
+        {
+            "type" : "champion",
+            "name" : "K'sante"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kai'Sa"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kalista"
+        },
+        {
+            "type" : "champion",
+            "name" : "Karma"
+        },
+        {
+            "type" : "champion",
+            "name" : "Karthus"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kassadin"
+        },
+        {
+            "type" : "champion",
+            "name" : "Katarina"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kayle"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kayn"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kennen"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kha'Zix"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kindred"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kled"
+        },
+        {
+            "type" : "champion",
+            "name" : "Kog'Maw"
+        },
+        {
+            "type" : "champion",
+            "name" : "LeBlanc"
+        },
+        {
+            "type" : "champion",
+            "name" : "Lee Sin"
+        },
+        {
+            "type" : "champion",
+            "name" : "Leona"
+        },
+        {
+            "type" : "champion",
+            "name" : "Lillia"
+        },
+        {
+            "type" : "champion",
+            "name" : "Lissandra"
+        },
+        {
+            "type" : "champion",
+            "name" : "Lucian"
+        },
+        {
+            "type" : "champion",
+            "name" : "Lulu"
+        },
+        {
+            "type" : "champion",
+            "name" : "Lux"
+        },
+        {
+            "type" : "champion",
+            "name" : "Maitre Yi"
+        },
+        {
+            "type" : "champion",
+            "name" : "Malphite"
+        },
+        {
+            "type" : "champion",
+            "name" : "Malzahar"
+        },
+        {
+            "type" : "champion",
+            "name" : "Maokai"
+        },
+        {
+            "type" : "champion",
+            "name" : "Milio"
+        },
+        {
+            "type" : "champion",
+            "name" : "Miss Fortune"
+        },
+        {
+            "type" : "champion",
+            "name" : "Mordekaiser"
+        },
+        {
+            "type" : "champion",
+            "name" : "Morgana"
+        },
+        {
+            "type" : "champion",
+            "name" : "Nami"
+        },
+        {
+            "type" : "champion",
+            "name" : "Nasus"
+        },
+        {
+            "type" : "champion",
+            "name" : "Nautilus"
+        },
+        {
+            "type" : "champion",
+            "name" : "Neeko"
+        },
+        {
+            "type" : "champion",
+            "name" : "Nidalee"
+        },
+        {
+            "type" : "champion",
+            "name" : "Nocturne"
+        },
+        {
+            "type" : "champion",
+            "name" : "Nunu & Willump"
+        },
+        {
+            "type" : "champion",
+            "name" : "Olaf"
+        },
+        {
+            "type" : "champion",
+            "name" : "Orianna"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ornn"
+        },
+        {
+            "type" : "champion",
+            "name" : "Pantheon"
+        },
+        {
+            "type" : "champion",
+            "name" : "Poppy"
+        },
+        {
+            "type" : "champion",
+            "name" : "Pyke"
+        },
+        {
+            "type" : "champion",
+            "name" : "Qiyana"
+        },
+        {
+            "type" : "champion",
+            "name" : "Quinn"
+        },
+        {
+            "type" : "champion",
+            "name" : "Rakan"
+        },
+        {
+            "type" : "champion",
+            "name" : "Rammus"
+        },
+        {
+            "type" : "champion",
+            "name" : "Rek'Sai"
+        },
+        {
+            "type" : "champion",
+            "name" : "Rell"
+        },
+        {
+            "type" : "champion",
+            "name" : "Renata Glasc"
+        },
+        {
+            "type" : "champion",
+            "name" : "Renekton"
+        }, 
+        {
+            "type" : "champion",
+            "name" : "Rengar"   
+        },
+        {
+            "type" : "champion",
+            "name" : "Riven"
+        },
+        {
+            "type" : "champion",
+            "name" : "Rumble"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ryze" 
+        },
+        {
+            "type" : "champion",
+            "name" : "Samira"
+        },
+        {
+            "type" : "champion",
+            "name" : "Sejuani"
+        },
+        {
+            "type" : "champion",
+            "name" : "Senna"
+        },
+        {
+            "type" : "champion",
+            "name" : "Seraphine"
+        },
+        {
+            "type" : "champion",
+            "name" : "Sett"
+        },
+        {
+            "type" : "champion",
+            "name" : "Shaco"
+        },
+        {
+            "type" : "champion",
+            "name" : "Shen"
+        },
+        {
+            "type" : "champion",
+            "name" : "Shyvana"
+        },
+        {
+            "type" : "champion",
+            "name" : "Singed"
+        },
+        {
+            "type" : "champion",
+            "name" : "Sion"
+        },
+        {
+            "type" : "champion",
+            "name" : "Sivir"
+        },
+        {
+            "type" : "champion",
+            "name" : "Skarner"
+        },
+        {
+            "type" : "champion",
+            "name" : "Sona"
+        },
+        {
+            "type" : "champion",
+            "name" : "Soraka"
+        },
+        {
+            "type" : "champion",
+            "name" : "Swain"
+        },
+        {
+            "type" : "champion",
+            "name" : "Sylas"
+        },
+        {
+            "type" : "champion",
+            "name" : "Syndra"
+        },
+        {
+            "type" : "champion",
+            "name" : "Tahm Kench"
+        },
+        {
+            "type" : "champion",
+            "name" : "Taliyah"
+        },
+        {
+            "type" : "champion",
+            "name" : "Talon"
+        },
+        {
+            "type" : "champion",
+            "name" : "Taric"
+        },
+        {
+            "type" : "champion",
+            "name" : "Teemo"
+        },
+        {
+            "type" : "champion",
+            "name" : "Thresh"
+        },
+        {
+            "type" : "champion",
+            "name" : "Tristana"
+        },
+        {
+            "type" : "champion",
+            "name" : "Trundle"
+        },
+        {
+            "type" : "champion",
+            "name" : "Tryndamere"
+        },
+        { 
+            "type" : "champion",
+            "name" : "Twisted Fate"
+        },
+        {
+            "type" : "champion",
+            "name" : "Twitch"
+        },
+        {
+            "type" : "champion",
+            "name" : "Udyr"
+        },
+        {
+            "type" : "champion",
+            "name" : "Urgot"
+        },
+        {
+            "type" : "champion",
+            "name" : "Varus"
+        },
+        {
+            "type" : "champion",
+            "name" : "Vayne"
+        },
+        {
+            "type" : "champion",
+            "name" : "Veigar"
+        },
+        {
+            "type" : "champion",
+            "name" : "Vel'Koz"
+        },
+        {
+            "type" : "champion",
+            "name" : "Vex"
+        },
+        {
+            "type" : "champion",
+            "name" : "Vi"
+        },
+        {
+            "type" : "champion",
+            "name" : "Viego"
+        },
+        {
+            "type" : "champion",
+            "name" : "Viktor"
+        },
+        {
+            "type" : "champion",
+            "name" : "Vladimir"
+        },
+        {
+            "type" : "champion",
+            "name" : "Volibear"
+        },
+        {
+            "type" : "champion",
+            "name" : "Warwick"
+        },
+        {
+            "type" : "champion",
+            "name" : "Wukong"
+        },
+        {
+            "type" : "champion",
+            "name" : "Xayah"
+        },
+        {
+            "type" : "champion",
+            "name" : "Xerath"
+        },
+        {
+            "type" : "champion",
+            "name" : "Xin Zhao"
+        },
+        {
+            "type" : "champion",
+            "name" : "Yasuo"
+        },
+        {
+            "type" : "champion",
+            "name" : "Yone"
+        },
+        {
+            "type" : "champion",
+            "name" : "Yorick"
+        },
+        {
+            "type" : "champion",
+            "name" : "Yuumi"
+        },
+        {
+            "type" : "champion",
+            "name" : "Zac"
+        },
+        {
+            "type" : "champion",
+            "name" : "Zed"
+        },
+        {
+            "type" : "champion",
+            "name" : "Zeri"
+        },
+        {
+            "type" : "champion",
+            "name" : "Ziggs"
+        },
+        {
+            "type" : "champion",
+            "name" : "Zilean"
+        },
+        {
+            "type" : "champion",
+            "name" : "Zoe"
+        },
+        {
+            "type" : "champion",
+            "name" : "Zyra"
+        },
+
+        
+        {
+            "type" : "item",
+            "name" : ""
+        }
+
+
+    ]
+}
